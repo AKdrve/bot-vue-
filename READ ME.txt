@@ -1,0 +1,5 @@
+To use the bot you need Driver From Chrome and selenium for install selenium you just have to go to the  terminal or cmd and to write pip install selenium 
+so you need to use Chrome go to my link which is under this file and choose your version.
+to know your version you had to go to chrome-3 small dots-help and on google chrome and look at your version
+then go to the chrome driver and install your version then all you have to do is follow the video that is in the file in question
+AND GO TO THE FILES PY AND CHNAGE "ADD YOUR VIDEO"
